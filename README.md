@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gaurav Kumar</h1>
-<h3 align="center">🚀 UI Developer | Web3 | AI Builder</h3>
+<h3 align="center">🚀 Full Stack Developer | Web3 | AI Builder</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280"/>
