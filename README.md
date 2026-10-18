@@ -16,18 +16,45 @@
 
 ## 👨‍💻 About Me
 
-```js
-const gaurav = {
-  name: "Gaurav Kumar",
-  role: "Full Stack Developer",
-  focus: ["AI Agents", "Web3", "Real World Assets (RWA)"],
-  building: "RWA + Payment Gateway 💸",
-  learning: "AI + Autonomous Systems 🤖",
-  achievements: "🏆 4x Web3 Hackathon Winner",
-  askMeAbout: ["React", "JavaScript", "Web3"],
-  reachMe: "everythinggaurav48@gmail.com"
-};
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-24c6dc?style=for-the-badge&logo=react&logoColor=white&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/Web3_Builder-8e44ad?style=for-the-badge&logo=ethereum&logoColor=white&labelColor=0f0c29" />
+  <img src="https://img.shields.io/badge/AI_Agents-e67e22?style=for-the-badge&logo=openai&logoColor=white&labelColor=0f0c29" />
+</p>
+
+<p align="center">
+  I build <b>Web3 products</b> and <b>AI agents</b>, turning ideas into real, working apps. ✨
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🔭 Working On</h3>
+      <p>AI Agents<br>RWA + Payment Gateway 💸</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🌱 Learning</h3>
+      <p>AI + Autonomous Systems 🤖<br>Smart Contracts</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🏆 Achievements</h3>
+      <p>4x Web3 Hackathon Winner</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>💬 Ask me about:</b>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="mailto:everythinggaurav48@gmail.com">
+    <img src="https://img.shields.io/badge/📫_Reach_me-everythinggaurav48@gmail.com-24c6dc?style=for-the-badge&labelColor=0f0c29" />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 
