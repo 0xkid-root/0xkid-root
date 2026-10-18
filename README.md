@@ -46,6 +46,12 @@ const gaurav = {
   <img src="https://streak-stats.demolab.com?user=0xkid-root&theme=tokyonight&hide_border=true&border_radius=15" height="170" />
 </p>
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xkid-root&bg_color=0d1117&color=24c6dc&line=24c6dc&point=ffffff&area=true&area_color=24c6dc&hide_border=true&radius=10&custom_title=Gaurav%20Kumar's%20Contribution%20Graph" width="100%" />
+</p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
