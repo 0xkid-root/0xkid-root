@@ -49,9 +49,8 @@ const gaurav = {
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xkid-root&bg_color=0d1117&color=24c6dc&line=24c6dc&point=ffffff&area=true&area_color=24c6dc&hide_border=true&radius=10&custom_title=Gaurav%20Kumar's%20Contribution%20Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/0xkid-root/0xkid-root/graph/graph.svg" alt="Contribution Graph" width="100%" />
 </p>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
