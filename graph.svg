@@ -2,7 +2,7 @@
 <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#24c6dc" stop-opacity=".45"/><stop offset="1" stop-color="#24c6dc" stop-opacity="0"/></linearGradient><filter id="glow" x="-10%" y="-30%" width="120%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
 <style>.ln{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.5s ease-out forwards}@keyframes draw{to{stroke-dashoffset:0}}.ar{opacity:0;animation:fade 1.5s 1.2s ease-out forwards}@keyframes fade{to{opacity:1}}.dt{opacity:0;animation:fade .6s 2.2s ease-out forwards}</style>
 <rect width="900" height="300" rx="14" fill="#0d1117" stroke="#30363d"/>
-<text x="450" y="32" text-anchor="middle" fill="#24c6dc" font-size="17" font-weight="600">0xkid-root's Contribution Graph  ·  718 contributions in 30 days</text>
+<text x="450" y="32" text-anchor="middle" fill="#24c6dc" font-size="17" font-weight="600">0xkid-root's Contribution Graph  ·  681 contributions in 30 days</text>
 <line x1="56" y1="56.0" x2="876" y2="56.0" stroke="#21262d" stroke-width="1"/>
 <text x="48" y="60.0" text-anchor="end" fill="#8b949e" font-size="11">368</text>
 <line x1="56" y1="106.0" x2="876" y2="106.0" stroke="#21262d" stroke-width="1"/>
@@ -13,46 +13,46 @@
 <text x="48" y="210.0" text-anchor="end" fill="#8b949e" font-size="11">92</text>
 <line x1="56" y1="256.0" x2="876" y2="256.0" stroke="#21262d" stroke-width="1"/>
 <text x="48" y="260.0" text-anchor="end" fill="#8b949e" font-size="11">0</text>
-<text x="56.0" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Sep 21</text>
-<text x="140.8" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Sep 24</text>
-<text x="225.7" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Sep 27</text>
-<text x="310.5" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Sep 30</text>
-<text x="395.3" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 03</text>
-<text x="480.1" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 06</text>
-<text x="565.0" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 09</text>
-<text x="649.8" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 12</text>
-<text x="734.6" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 15</text>
-<text x="819.4" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 18</text>
-<path class="ar" d="M56.0,235.9 C60.7,206.2 74.9,56.3 84.3,57.6 C93.7,59.0 103.1,213.2 112.6,244.0 C122.0,256.0 131.4,241.6 140.8,243.0 C150.3,244.3 159.7,252.3 169.1,252.2 C178.5,252.1 188.0,241.8 197.4,242.4 C206.8,243.0 216.2,256.0 225.7,256.0 C235.1,253.1 244.5,226.7 253.9,225.0 C263.4,223.3 272.8,240.8 282.2,245.7 C291.6,250.6 301.1,255.4 310.5,254.4 C319.9,253.4 329.3,239.4 338.8,239.7 C348.2,240.0 357.6,253.4 367.0,256.0 C376.5,256.0 385.9,255.5 395.3,255.5 C404.7,255.4 414.2,256.0 423.6,255.5 C433.0,252.6 442.4,238.5 451.9,238.6 C461.3,238.7 470.7,253.1 480.1,256.0 C489.6,256.0 499.0,256.0 508.4,256.0 C517.8,255.8 527.3,255.2 536.7,254.9 C546.1,254.6 555.5,255.8 565.0,254.4 C574.4,252.9 583.8,246.5 593.2,246.2 C602.7,245.9 612.1,251.1 621.5,252.7 C630.9,254.4 640.4,255.5 649.8,256.0 C659.2,256.0 668.6,256.0 678.1,256.0 C687.5,255.5 696.9,253.2 706.3,252.7 C715.8,252.3 725.2,252.9 734.6,253.3 C744.0,253.6 753.5,254.6 762.9,254.9 C772.3,255.2 781.7,255.4 791.2,254.9 C800.6,254.5 810.0,256.0 819.4,252.2 C828.9,248.4 838.3,231.5 847.7,232.1 C857.1,232.7 871.3,252.0 876.0,256.0 L876.0,256.0 L56.0,256.0 Z" fill="url(#g)"/>
-<path class="ln" pathLength="1" d="M56.0,235.9 C60.7,206.2 74.9,56.3 84.3,57.6 C93.7,59.0 103.1,213.2 112.6,244.0 C122.0,256.0 131.4,241.6 140.8,243.0 C150.3,244.3 159.7,252.3 169.1,252.2 C178.5,252.1 188.0,241.8 197.4,242.4 C206.8,243.0 216.2,256.0 225.7,256.0 C235.1,253.1 244.5,226.7 253.9,225.0 C263.4,223.3 272.8,240.8 282.2,245.7 C291.6,250.6 301.1,255.4 310.5,254.4 C319.9,253.4 329.3,239.4 338.8,239.7 C348.2,240.0 357.6,253.4 367.0,256.0 C376.5,256.0 385.9,255.5 395.3,255.5 C404.7,255.4 414.2,256.0 423.6,255.5 C433.0,252.6 442.4,238.5 451.9,238.6 C461.3,238.7 470.7,253.1 480.1,256.0 C489.6,256.0 499.0,256.0 508.4,256.0 C517.8,255.8 527.3,255.2 536.7,254.9 C546.1,254.6 555.5,255.8 565.0,254.4 C574.4,252.9 583.8,246.5 593.2,246.2 C602.7,245.9 612.1,251.1 621.5,252.7 C630.9,254.4 640.4,255.5 649.8,256.0 C659.2,256.0 668.6,256.0 678.1,256.0 C687.5,255.5 696.9,253.2 706.3,252.7 C715.8,252.3 725.2,252.9 734.6,253.3 C744.0,253.6 753.5,254.6 762.9,254.9 C772.3,255.2 781.7,255.4 791.2,254.9 C800.6,254.5 810.0,256.0 819.4,252.2 C828.9,248.4 838.3,231.5 847.7,232.1 C857.1,232.7 871.3,252.0 876.0,256.0" fill="none" stroke="#24c6dc" stroke-width="2.5" stroke-linecap="round" filter="url(#glow)"/>
-<circle class="dt" cx="56.0" cy="235.9" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-21: 37</title></circle>
-<circle class="dt" cx="84.3" cy="57.6" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-22: 365</title></circle>
-<circle class="dt" cx="112.6" cy="244.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-23: 22</title></circle>
-<circle class="dt" cx="140.8" cy="243.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-24: 24</title></circle>
-<circle class="dt" cx="169.1" cy="252.2" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-25: 7</title></circle>
-<circle class="dt" cx="197.4" cy="242.4" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-26: 25</title></circle>
-<circle class="dt" cx="225.7" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-27: 0</title></circle>
-<circle class="dt" cx="253.9" cy="225.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-28: 57</title></circle>
-<circle class="dt" cx="282.2" cy="245.7" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-29: 19</title></circle>
-<circle class="dt" cx="310.5" cy="254.4" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-30: 3</title></circle>
-<circle class="dt" cx="338.8" cy="239.7" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-01: 30</title></circle>
-<circle class="dt" cx="367.0" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-02: 0</title></circle>
-<circle class="dt" cx="395.3" cy="255.5" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-03: 1</title></circle>
-<circle class="dt" cx="423.6" cy="255.5" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-04: 1</title></circle>
-<circle class="dt" cx="451.9" cy="238.6" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-05: 32</title></circle>
-<circle class="dt" cx="480.1" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-06: 0</title></circle>
-<circle class="dt" cx="508.4" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-07: 0</title></circle>
-<circle class="dt" cx="536.7" cy="254.9" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-08: 2</title></circle>
-<circle class="dt" cx="565.0" cy="254.4" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-09: 3</title></circle>
-<circle class="dt" cx="593.2" cy="246.2" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-10: 18</title></circle>
-<circle class="dt" cx="621.5" cy="252.7" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-11: 6</title></circle>
-<circle class="dt" cx="649.8" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-12: 0</title></circle>
-<circle class="dt" cx="678.1" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-13: 0</title></circle>
-<circle class="dt" cx="706.3" cy="252.7" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-14: 6</title></circle>
-<circle class="dt" cx="734.6" cy="253.3" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-15: 5</title></circle>
-<circle class="dt" cx="762.9" cy="254.9" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-16: 2</title></circle>
-<circle class="dt" cx="791.2" cy="254.9" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-17: 2</title></circle>
-<circle class="dt" cx="819.4" cy="252.2" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-18: 7</title></circle>
-<circle class="dt" cx="847.7" cy="232.1" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-19: 44</title></circle>
-<circle class="dt" cx="876.0" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-20: 0</title></circle>
+<text x="56.0" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Sep 22</text>
+<text x="140.8" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Sep 25</text>
+<text x="225.7" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Sep 28</text>
+<text x="310.5" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 01</text>
+<text x="395.3" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 04</text>
+<text x="480.1" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 07</text>
+<text x="565.0" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 10</text>
+<text x="649.8" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 13</text>
+<text x="734.6" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 16</text>
+<text x="819.4" y="282" text-anchor="middle" fill="#8b949e" font-size="11">Oct 19</text>
+<path class="ar" d="M56.0,57.6 C60.7,88.7 74.9,213.2 84.3,244.0 C93.7,256.0 103.1,241.6 112.6,243.0 C122.0,244.3 131.4,252.3 140.8,252.2 C150.3,252.1 159.7,241.8 169.1,242.4 C178.5,243.0 188.0,256.0 197.4,256.0 C206.8,253.1 216.2,226.7 225.7,225.0 C235.1,223.3 244.5,240.8 253.9,245.7 C263.4,250.6 272.8,255.4 282.2,254.4 C291.6,253.4 301.1,239.4 310.5,239.7 C319.9,240.0 329.3,253.4 338.8,256.0 C348.2,256.0 357.6,255.5 367.0,255.5 C376.5,255.4 385.9,256.0 395.3,255.5 C404.7,252.6 414.2,238.5 423.6,238.6 C433.0,238.7 442.4,253.1 451.9,256.0 C461.3,256.0 470.7,256.0 480.1,256.0 C489.6,255.8 499.0,255.2 508.4,254.9 C517.8,254.6 527.3,255.8 536.7,254.4 C546.1,252.9 555.5,246.5 565.0,246.2 C574.4,245.9 583.8,251.1 593.2,252.7 C602.7,254.4 612.1,255.5 621.5,256.0 C630.9,256.0 640.4,256.0 649.8,256.0 C659.2,255.5 668.6,253.2 678.1,252.7 C687.5,252.3 696.9,252.9 706.3,253.3 C715.8,253.6 725.2,254.6 734.6,254.9 C744.0,255.2 753.5,255.4 762.9,254.9 C772.3,254.5 781.7,256.0 791.2,252.2 C800.6,248.4 810.0,231.5 819.4,232.1 C828.9,232.7 838.3,252.0 847.7,256.0 C857.1,256.0 871.3,256.0 876.0,256.0 L876.0,256.0 L56.0,256.0 Z" fill="url(#g)"/>
+<path class="ln" pathLength="1" d="M56.0,57.6 C60.7,88.7 74.9,213.2 84.3,244.0 C93.7,256.0 103.1,241.6 112.6,243.0 C122.0,244.3 131.4,252.3 140.8,252.2 C150.3,252.1 159.7,241.8 169.1,242.4 C178.5,243.0 188.0,256.0 197.4,256.0 C206.8,253.1 216.2,226.7 225.7,225.0 C235.1,223.3 244.5,240.8 253.9,245.7 C263.4,250.6 272.8,255.4 282.2,254.4 C291.6,253.4 301.1,239.4 310.5,239.7 C319.9,240.0 329.3,253.4 338.8,256.0 C348.2,256.0 357.6,255.5 367.0,255.5 C376.5,255.4 385.9,256.0 395.3,255.5 C404.7,252.6 414.2,238.5 423.6,238.6 C433.0,238.7 442.4,253.1 451.9,256.0 C461.3,256.0 470.7,256.0 480.1,256.0 C489.6,255.8 499.0,255.2 508.4,254.9 C517.8,254.6 527.3,255.8 536.7,254.4 C546.1,252.9 555.5,246.5 565.0,246.2 C574.4,245.9 583.8,251.1 593.2,252.7 C602.7,254.4 612.1,255.5 621.5,256.0 C630.9,256.0 640.4,256.0 649.8,256.0 C659.2,255.5 668.6,253.2 678.1,252.7 C687.5,252.3 696.9,252.9 706.3,253.3 C715.8,253.6 725.2,254.6 734.6,254.9 C744.0,255.2 753.5,255.4 762.9,254.9 C772.3,254.5 781.7,256.0 791.2,252.2 C800.6,248.4 810.0,231.5 819.4,232.1 C828.9,232.7 838.3,252.0 847.7,256.0 C857.1,256.0 871.3,256.0 876.0,256.0" fill="none" stroke="#24c6dc" stroke-width="2.5" stroke-linecap="round" filter="url(#glow)"/>
+<circle class="dt" cx="56.0" cy="57.6" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-22: 365</title></circle>
+<circle class="dt" cx="84.3" cy="244.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-23: 22</title></circle>
+<circle class="dt" cx="112.6" cy="243.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-24: 24</title></circle>
+<circle class="dt" cx="140.8" cy="252.2" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-25: 7</title></circle>
+<circle class="dt" cx="169.1" cy="242.4" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-26: 25</title></circle>
+<circle class="dt" cx="197.4" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-27: 0</title></circle>
+<circle class="dt" cx="225.7" cy="225.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-28: 57</title></circle>
+<circle class="dt" cx="253.9" cy="245.7" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-29: 19</title></circle>
+<circle class="dt" cx="282.2" cy="254.4" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-09-30: 3</title></circle>
+<circle class="dt" cx="310.5" cy="239.7" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-01: 30</title></circle>
+<circle class="dt" cx="338.8" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-02: 0</title></circle>
+<circle class="dt" cx="367.0" cy="255.5" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-03: 1</title></circle>
+<circle class="dt" cx="395.3" cy="255.5" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-04: 1</title></circle>
+<circle class="dt" cx="423.6" cy="238.6" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-05: 32</title></circle>
+<circle class="dt" cx="451.9" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-06: 0</title></circle>
+<circle class="dt" cx="480.1" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-07: 0</title></circle>
+<circle class="dt" cx="508.4" cy="254.9" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-08: 2</title></circle>
+<circle class="dt" cx="536.7" cy="254.4" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-09: 3</title></circle>
+<circle class="dt" cx="565.0" cy="246.2" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-10: 18</title></circle>
+<circle class="dt" cx="593.2" cy="252.7" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-11: 6</title></circle>
+<circle class="dt" cx="621.5" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-12: 0</title></circle>
+<circle class="dt" cx="649.8" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-13: 0</title></circle>
+<circle class="dt" cx="678.1" cy="252.7" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-14: 6</title></circle>
+<circle class="dt" cx="706.3" cy="253.3" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-15: 5</title></circle>
+<circle class="dt" cx="734.6" cy="254.9" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-16: 2</title></circle>
+<circle class="dt" cx="762.9" cy="254.9" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-17: 2</title></circle>
+<circle class="dt" cx="791.2" cy="252.2" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-18: 7</title></circle>
+<circle class="dt" cx="819.4" cy="232.1" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-19: 44</title></circle>
+<circle class="dt" cx="847.7" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-20: 0</title></circle>
+<circle class="dt" cx="876.0" cy="256.0" r="3" fill="#0d1117" stroke="#24c6dc" stroke-width="1.8"><title>2026-10-21: 0</title></circle>
 </svg>
